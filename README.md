@@ -1,0 +1,2 @@
+# fast-snippets
+Daily practice
